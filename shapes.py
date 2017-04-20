@@ -1,4 +1,4 @@
-shape = "square"
-num_sides = 4
+shape = "pentagon"
+num_sides = 5
 
 print "I am a " + shape + ". I have " + str(num_sides) + " sides."
